@@ -773,7 +773,7 @@ section .title::after {
 
 /* projects section styling */
 .projects .title::after {
-    content: " Useful Tools";
+    content: " Useful Section";
 }
 
 .projects .carousel .card {
